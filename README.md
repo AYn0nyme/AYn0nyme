@@ -1,6 +1,8 @@
-# Hi there, I'm AYn0nyme! 👋🌚
+<h1 align="center">Hi there, I'm AYn0nyme! 👋🌚</h1>
 
-![Goofy Emoji](https://emojicdn.elk.sh/🥸)
+<div align="center">
+<img src="https://emojicdn.elk.sh/🥸" />
+</div>
 
 ## 👨‍💻 About Me
 

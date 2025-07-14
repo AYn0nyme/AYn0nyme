@@ -41,9 +41,8 @@ Check it out, leave a star, or open an issue if you have ideas!
 
 ## 🛠️ Tools I Use
 
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/OS-Arch%20Linux-FCC624?style=flat-square&logo=arch-linux&logoColor=blue)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
